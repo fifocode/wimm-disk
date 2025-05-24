@@ -1,2 +1,2 @@
 # wimm-disk
-Images used in the wimp project
+Images used in the wimm project
